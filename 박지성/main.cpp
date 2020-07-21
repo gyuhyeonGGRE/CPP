@@ -9,17 +9,17 @@ int main()
 	int a;
 	int b;
 	int c;
-	cout << "¼ıÀÚ ÀÔ·Â : ";
+	cout << "ìˆ«ì ì…ë ¥ : ";
 	cin >> a;
 	while (true)
 	{
-		cout << "¼ıÀÚ ÀÔ·Â : ";
+		cout << "ìˆ«ì ì…ë ¥ : ";
 		cin >> b;
 		if (a != b) {
 			a = b;
 			continue;
 		}
-		cout << "¼ıÀÚ ÀÔ·Â : ";
+		cout << "ìˆ«ì ì…ë ¥ : ";
 		cin >> c;
 		if (b != c)
 		{
@@ -28,7 +28,8 @@ int main()
 		}
 		else
 		{
-			cout << c << "°¡ ¿¬¼ÓÀ¸·Î 3È¸ ³ª¿Ô¾î¿ä!" << endl;
+			cout << c << "ê°€ ì—°ì†ìœ¼ë¡œ 3íšŒ ë‚˜ì™”ì–´ìš”!" << endl;
+			cout<<"ê·¸ë¦¬ê³  ì´ê±´ "<<endl;	
 		}
 	}
 
