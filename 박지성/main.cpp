@@ -29,7 +29,7 @@ int main()
 		else
 		{
 			cout << c << "가 연속으로 3회 나왔어요!" << endl;
-			cout<<"그리고 이건 "<<endl;	
+			cout<<"그리고 이건 뭘까요 "<<endl;	
 		}
 	}
 
