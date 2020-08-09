@@ -33,7 +33,8 @@ int main()
 		}
 	}
 
-	
+	int abccd=15
  cout<<12<<endl;
+ cout<<abccd<<endl;
 
 }
