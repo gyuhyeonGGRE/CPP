@@ -34,6 +34,6 @@ int main()
 	}
 
 	
- cout<<1<<endl;
+ cout<<12<<endl;
 
 }
